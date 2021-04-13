@@ -2,4 +2,10 @@
 Meu Portifolio
 
 ## Tarefas
-O controle dessas tarefas desse projeto será no GitHub
+Controle
+
+# Icones
+:new: nova funcionalidade 
+:sparkles: atualização 
+:bomb: correção de bug 
+:books: release
