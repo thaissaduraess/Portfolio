@@ -5,7 +5,7 @@ Meu Portifolio
 Controle
 
 # Icones
-:new: nova funcionalidade 
-:sparkles: atualização 
-:bomb: correção de bug 
-:books: release
+- :new: nova funcionalidade 
+- :sparkles: atualização 
+- :bomb: correção de bug 
+- :books: release
